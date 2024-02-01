@@ -38,7 +38,7 @@ const Billing = () => {
             Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
             aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
           </p>
-          <button className="mt-10 px-6 rounded-[10px] py-2 bg-gradient-to-b from-[#81e8ec] to-[#3ea9ad] font-semibold text-base text-black">
+          <button className="mt-10 px-6 rounded-[10px] py-2 bg-gradient-to-b from-[#9afcff] to-[#3ea9ad] font-semibold text-base text-black">
             Get Started
           </button>
         </div>
